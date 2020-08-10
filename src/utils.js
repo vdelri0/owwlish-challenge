@@ -35,10 +35,9 @@ export const arriveExitDialogTitle = "Arrive Exit Error";
 export const lunchDialogTitle = "Start End Lunch Error";
 export const saveDialogTitle = "Save Error";
 export const saveBIDialogTitle = "Save Basic Info Error";
-export const arriveExitError =
-  "Arrive hour can not be equal or higher than exit hour";
+export const arriveExitError = "Arrive hour can not be higher than exit hour";
 export const lunchError =
-  "Lunch start hour can not be equal or higher than lunch end hour";
+  "Lunch start hour can not be higher than lunch end hour";
 export const saveError =
   "Can not save because you have an Arrive Exit Error or a Start End Lunch Error";
 export const saveBIError =
