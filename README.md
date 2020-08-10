@@ -45,26 +45,26 @@ oowlish-challenge/
 	package-lock.json
 	package.json
 	db/
-		db.json
+	    db.json
 	public/
 	index.html
-		favicon.ico
+	    favicon.ico
 	src/
-		App.css
-		App.js
-		App.test.js
-		index.css
-		index.js
-		logo.svg
-		utils.js
-		components/
-			AlertDialog.jsx
-			ArriveExitHours.jsx
-			BasicInfo.jsx
-			EmployeeHours.jsx
-			HomePage.jsx
-			LunchBreaks.jsx
-			WorkedHours.jsx
+	    App.css
+	    App.js
+	    App.test.js
+	    index.css
+	    index.js
+	    logo.svg
+	    utils.js
+	    components/
+	        AlertDialog.jsx
+	        ArriveExitHours.jsx
+	        BasicInfo.jsx
+	        EmployeeHours.jsx
+	        HomePage.jsx
+	        LunchBreaks.jsx
+	        WorkedHours.jsx
 
 ```
 
