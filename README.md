@@ -38,33 +38,33 @@ After creation, your project should look like this:
 
 ```
 
-my-app/
+oowlish-challenge/
 	README.md
-  .gitignore
+  	.gitignore
 	node_modules/
 	package-lock.json
 	package.json
 	db/
-		db.json
+	    db.json
 	public/
-		index.html
-		favicon.ico
+	index.html
+	    favicon.ico
 	src/
-		App.css
-		App.js
-		App.test.js
-		index.css
-		index.js
-		logo.svg
-		utils.js
-		components/
-			AlertDialog.jsx
-			ArriveExitHours.jsx
-			BasicInfo.jsx
-			EmployeeHours.jsx
-			HomePage.jsx
-			LunchBreaks.jsx
-			WorkedHours.jsx
+	    App.css
+	    App.js
+	    App.test.js
+	    index.css
+	    index.js
+	    logo.svg
+	    utils.js
+	    components/
+	        AlertDialog.jsx
+	        ArriveExitHours.jsx
+	        BasicInfo.jsx
+	        EmployeeHours.jsx
+	        HomePage.jsx
+	        LunchBreaks.jsx
+	        WorkedHours.jsx
 
 ```
 
