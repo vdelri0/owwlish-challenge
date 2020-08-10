@@ -45,7 +45,7 @@ oowlish-challenge/
 	package-lock.json
 	package.json
 	db/
-	    db.json
+		db.json
 	public/
 	index.html
 		favicon.ico
