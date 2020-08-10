@@ -64,6 +64,7 @@ oowlish-challenge/
 	        EmployeeHours.jsx
 	        HomePage.jsx
 	        LunchBreaks.jsx
+		TablePaginationActions.jsx
 	        WorkedHours.jsx
 
 ```
