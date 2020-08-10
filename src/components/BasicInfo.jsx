@@ -21,7 +21,7 @@ export default function BasicInfo(props) {
             <TextField
               required
               fullWidth
-              id="outlined-required"
+              id="outlined-required-1"
               label="Employee ID"
               variant="outlined"
               onChange={handleInputChange}
@@ -34,7 +34,7 @@ export default function BasicInfo(props) {
             <TextField
               fullWidth
               required
-              id="outlined-required"
+              id="outlined-required-2"
               label="First Name"
               variant="outlined"
               onChange={handleInputChange}
@@ -47,7 +47,7 @@ export default function BasicInfo(props) {
             <TextField
               required
               fullWidth
-              id="outlined-required"
+              id="outlined-required-3"
               label="Last Name"
               variant="outlined"
               onChange={handleInputChange}

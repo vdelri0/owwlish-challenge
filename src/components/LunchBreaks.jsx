@@ -32,7 +32,7 @@ export default function LunchBreaks(props) {
         <Grid container justify="space-around">
           <KeyboardTimePicker
             margin="normal"
-            id="time-picker"
+            id="time-picker-l1"
             label="Lunch Start"
             value={hours.lunchStart}
             onChange={handleStartChange}
@@ -42,7 +42,7 @@ export default function LunchBreaks(props) {
           />
           <KeyboardTimePicker
             margin="normal"
-            id="time-picker"
+            id="time-picker-l2"
             label="Lunch End"
             value={hours.lunchEnd}
             onChange={handleEndChange}

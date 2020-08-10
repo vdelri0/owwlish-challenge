@@ -32,7 +32,7 @@ export default function ArriveExitHours(props) {
         <Grid container justify="space-around">
           <KeyboardTimePicker
             margin="normal"
-            id="time-picker"
+            id="time-picker-ae1"
             label="Arriving Hours"
             value={hours.arriveHour}
             onChange={handleArriveChange}
@@ -42,7 +42,7 @@ export default function ArriveExitHours(props) {
           />
           <KeyboardTimePicker
             margin="normal"
-            id="time-picker"
+            id="time-picker-ae2"
             label="Exiting Hours"
             value={hours.exitHour}
             onChange={handleExitChange}
