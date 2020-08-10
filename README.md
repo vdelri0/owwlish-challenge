@@ -38,9 +38,9 @@ After creation, your project should look like this:
 
 ```
 
-my-app/
+oowlish-challenge/
 	README.md
-  .gitignore
+  	.gitignore
 	node_modules/
 	package-lock.json
 	package.json
